@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Neural Network**
 
-- 📝 I regularly write articles on [https://mentalitymeadows.wordpress.com/](https://mentalitymeadows.wordpress.com/)
+- 📝 I regularly write articles on [https://worldstories14.blogspot.com/](https://worldstories14.blogspot.com/)
 
 - 📫 How to reach me **patilarya3133@gmail.com**
 
