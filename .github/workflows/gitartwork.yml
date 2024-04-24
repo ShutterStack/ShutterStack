@@ -15,4 +15,4 @@
             user_name: ShutterStack
             # Text on contribution graph 
             text: ARYA
-       - uses: jasineri/simple-push-action@v1
+       
