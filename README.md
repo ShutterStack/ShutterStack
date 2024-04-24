@@ -1,6 +1,8 @@
 <h1 align="center">Hi 😀, I'm Arya Patil</h1>
 <h3 align="center">Passionate to build tech stuff. I'm so giddy about learning AIML and Data Science that even my coffee gets jealous of the attention I'm giving to algorithms and data sets! </h3>
 
+![gitartwork](gitartwork.svg)   
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shutterstack&label=Profile%20views&color=0e75b6&style=flat" alt="shutterstack" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shutterstack" alt="shutterstack" /></a> </p>
