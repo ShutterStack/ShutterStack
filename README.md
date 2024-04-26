@@ -59,9 +59,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ### 📊 Github Stats
 [![Trophy](https://github-profile-trophy.vercel.app/?username=ShutterStack&theme=tokyonight&border_radius=5&border=A504EB)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img width=350 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShutterStack&layout=compact&theme=nightowl&border_radius=5&border=A504EB"  />
+<img width=350 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShutterStack&layout=compact&theme=nightowl&hide_border=false&border_radius=5&border=A504EB"  />
 
-<img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=ShutterStack&theme=nightowl&show_icons=true&border_radius=5&border=A504EB" alt="top languages" />
+<img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=ShutterStack&theme=nightowl&show_icons=true&hide_border=false&border_radius=5&border=A504EB" alt="top languages" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShutterStack&theme=nightowl&border_radius=5&border=A504EB&ring=EB5454)](https://git.io/streak-stats)
 
