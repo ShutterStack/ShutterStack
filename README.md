@@ -65,8 +65,4 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShutterStack&theme=nightowl&border_radius=5&border=A504EB&ring=EB5454)](https://git.io/streak-stats)
 
-<div style="border: 1px solid #A504EB; border-radius: 5px; width: 100%; display: flex; justify-content: center;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShutterStack&theme=nightowl&hide_border=false&border_radius=5" width="100%" />
-</div>
-
-
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShutterStack&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB" width="100%" />
