@@ -32,7 +32,6 @@
 
 <img width=350 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShutterStack&layout=compact&theme=nightowl&border_radius=5&border=A504EB"  />
 
-  <img width=410 align="center" src="https://github-readme-stats.vercel.app/api?username=ShutterStack&theme=nightowl&show_icons=true&border_radius=5&border=A504EB" alt="top languages" />
+  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=ShutterStack&theme=nightowl&show_icons=true&border_radius=5&border=A504EB" alt="top languages" />
 <br></br>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShutterStack&theme=nightowl&border_radius=5&border=A504EB&ring=EB5454)](https://git.io/streak-stats)
