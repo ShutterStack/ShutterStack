@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm <a href="https://www.blackcater.win/" target="_blank">Arya Patil</a> <img
+<h1 align="center">Hey there, I'm <a href="" target="_blank">Arya Patil</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <h3 align="center">Passionate to build tech stuff. I'm so giddy about learning AIML and Data Science that even my coffee gets jealous of the attention I'm giving to algorithms and data sets! </h3>
