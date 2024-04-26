@@ -7,6 +7,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shutterstack&label=Profile%20views&color=0e75b6&style=flat" alt="shutterstack" /> </p>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShutterStack/ShutterStack/main/data.gif" width="360px"/>
 
 ### 🧐 About Me:
 - 🔭 I’m currently working on **AI Based Recognition**
