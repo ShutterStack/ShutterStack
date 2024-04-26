@@ -7,6 +7,7 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=ShutterStack&theme=tokyonight&border_radius=5&border=A504EB)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 🧐 About Me:
 - 🔭 I’m currently working on **AI Based Recognition**
 
 - 🌱 I’m currently learning **Flutter,MongoDB**
