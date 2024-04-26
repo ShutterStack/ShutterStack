@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shutterstack&label=Profile%20views&color=0e75b6&style=flat" alt="shutterstack" /> </p>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ShutterStack&theme=tokyonight&border_radius=5&border=A504EB)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🧐 About Me:
 - 🔭 I’m currently working on **AI Based Recognition**
@@ -56,6 +55,8 @@
 <br>
 
 ### 📊 Github Stats
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ShutterStack&theme=tokyonight&border_radius=5&border=A504EB)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img width=350 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShutterStack&layout=compact&theme=nightowl&border_radius=5&border=A504EB"  />
 
 <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=ShutterStack&theme=nightowl&show_icons=true&border_radius=5&border=A504EB" alt="top languages" />
