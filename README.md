@@ -28,6 +28,7 @@
 <a href="https://www.hackerrank.com/shutterstack" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shutterstack" height="30" width="40" /></a>
 
 <br>
+<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
