@@ -27,7 +27,6 @@
 <a href="https://instagram.com/the_ap4" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_ap4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shutterstack" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shutterstack" height="30" width="40" /></a>
 
-<br>
 
 
 ### 🔨 Languages and Tools:
