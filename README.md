@@ -64,3 +64,5 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=ShutterStack&theme=nightowl&show_icons=true&border_radius=5&border=A504EB" alt="top languages" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShutterStack&theme=nightowl&border_radius=5&border=A504EB&ring=EB5454)](https://git.io/streak-stats)
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShutterStack&theme=nightowl&bg_color=A504EB&hide_border=true" width="100%"/>
