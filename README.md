@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shutterstack&label=Profile%20views&color=0e75b6&style=flat" alt="shutterstack" /> </p>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ShutterStack&theme=nightowl)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ShutterStack&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **AI Based Recognition**
 
