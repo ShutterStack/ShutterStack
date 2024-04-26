@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shutterstack&show_icons=true&locale=en" alt="shutterstack" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shutterstack&" alt="shutterstack" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShutterStack&theme=nightowl&border_radius=5&border=A504EB&ring=EB5454)](https://git.io/streak-stats)
