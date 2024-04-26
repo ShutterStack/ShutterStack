@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutterstack&show_icons=true&locale=en&layout=compact" alt="shutterstack" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shutterstack&show_icons=true&locale=en" alt="shutterstack" /></p>
+![ShutterStacks's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShutterStack&theme=tokyonight&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShutterStack&theme=nightowl&border_radius=5&border=A504EB&ring=EB5454)](https://git.io/streak-stats)
