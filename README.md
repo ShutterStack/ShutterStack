@@ -27,7 +27,9 @@
 <a href="https://instagram.com/the_ap4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_ap4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shutterstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shutterstack" height="30" width="40" /></a>
 </p>
+
 <br>
+
 ### 🔨 Languages and Tools:
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -55,6 +57,6 @@
 ### 📊 Github Stats
 <img width=350 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShutterStack&layout=compact&theme=nightowl&border_radius=5&border=A504EB"  />
 
-  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=ShutterStack&theme=nightowl&show_icons=true&border_radius=5&border=A504EB" alt="top languages" />
+<img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=ShutterStack&theme=nightowl&show_icons=true&border_radius=5&border=A504EB" alt="top languages" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShutterStack&theme=nightowl&border_radius=5&border=A504EB&ring=EB5454)](https://git.io/streak-stats)
