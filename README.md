@@ -1,4 +1,6 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; background: linear-gradient(to right, #ff8a00, #e52e71); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hi 😀, I'm Arya Patil</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ShutterStack/ShutterStack/main/name.svg" alt="ShutterStack" />
+</h1>
 
 <h3 align="center">Passionate to build tech stuff. I'm so giddy about learning AIML and Data Science that even my coffee gets jealous of the attention I'm giving to algorithms and data sets! </h3>
 
