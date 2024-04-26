@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ShutterStack/ShutterStack/main/name.svg" alt="Arya Patil" />
-</h1>
+
+<h1 align="center">Hi 😀, I'm Arya Patil</h1>
 
 <h3 align="center">Passionate to build tech stuff. I'm so giddy about learning AIML and Data Science that even my coffee gets jealous of the attention I'm giving to algorithms and data sets! </h3>
 
