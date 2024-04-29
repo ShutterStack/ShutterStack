@@ -58,7 +58,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br>
 
 ### 📊 Github Stats
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ShutterStack&theme=tokyonight&border_radius=5&border_color=A504EB)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img width="350" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShutterStack&layout=compact&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB" />
 
