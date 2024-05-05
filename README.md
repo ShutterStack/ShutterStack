@@ -5,7 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ![gitartwork](gitartwork.svg)
 
-[![](https://visitcount.itsvg.in/api?id=ShutterStack&label=Trespassers&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shutterstack&label=Profile%20views&color=0e75b6&style=flat" alt="shutterstack" /> </p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShutterStack/ShutterStack/main/data.gif" width="310px"/>
 
