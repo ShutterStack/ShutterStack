@@ -68,3 +68,4 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShutterStack&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB" width="100%" />
 
+![readmebox](https://github.com/wahyudesu/wahyudesu/assets/96912274/301fe236-e965-4654-b32a-6351980d1628)
