@@ -70,7 +70,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 
 <div align="center">
-<a href="https://github.com/Ronlin1/Ronlin1/issues/1#issuecomment-new"><img src="guestbook.svg"></a> 
+<a href="https://github.com/ShutterStack/ShutterStack/issues/1#issuecomment-new"><img src="guestbook.svg"></a> 
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
