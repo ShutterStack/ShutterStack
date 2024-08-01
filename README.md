@@ -69,6 +69,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShutterStack&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB" width="100%" />
 
 
+<div align="center">
+<a href="https://github.com/Ronlin1/Ronlin1/issues/1#issuecomment-new"><img src="guestbook.svg"></a> 
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
