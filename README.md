@@ -60,7 +60,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ### 📊 Github Stats
 
-<img width="350" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShutterStack&layout=compact&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB" />
+[![ShutterStack's GitHub | Languages Over Time](https://stats.quira.sh/ShutterStack/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ShutterStack)
 
 [![ShutterStack's GitHub | Stats](https://stats.quira.sh/ShutterStack/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ShutterStack)
 
