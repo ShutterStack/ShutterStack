@@ -58,6 +58,73 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br>
 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> GitHub Stats
+
+  <div align="center">
+    <a href="https://quira.sh?utm_source=widgets&utm_campaign=ShutterStack">
+      <img src="https://stats.quira.sh/ShutterStack/github?theme=dark" alt="ShutterStack's GitHub | Stats" />
+    </a>
+  </div>
+  
+
+  <table>
+  <tr>
+    <th>Languages Over Time</th>
+    <th>Topics Over Time</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=ShutterStack">
+        <img src="https://stats.quira.sh/ShutterStack/languages-over-time?theme=dark" 
+             alt="ShutterStack's GitHub | Languages Over Time" />
+      </a>
+    </td>
+    <td>
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=ShutterStack">
+        <img src="https://stats.quira.sh/ShutterStack/topics-over-time?theme=dark" 
+             alt="ShutterStack's GitHub | Topics Over Time" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Stats</th>
+    <th>Streak</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ShutterStack&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+           alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShutterStack&theme=tokyonight&hide_border=false" 
+           alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <th>Laguages</th>
+    <th>Awards</th>
+  </tr>
+  <tr>
+    <td>
+     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShutterStack&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+    <td>
+     <img width="700" src="https://github-profile-trophy.vercel.app/?username=ShutterStack&theme=tokyonight&column=5" /> 
+    </td>
+  </tr>
+</table>
+<div align="center">
+  <img  width="1200" src="https://github-readme-activity-graph.vercel.app/graph?username=ShutterStack&theme=synthwave-84&true&hide_border=true" />
+</div>
+
+</details>
+
+<br>
+
+
+
+
+
 ### 📊 Github Stats
 
 [![ShutterStack's GitHub | Languages Over Time](https://stats.quira.sh/ShutterStack/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ShutterStack)
