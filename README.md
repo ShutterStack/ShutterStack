@@ -114,7 +114,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   </tr>
 </table>
 <div align="center">
-  <img  width="1200" src="https://github-readme-activity-graph.vercel.app/graph?username=ShutterStack&theme=nightowl-84&true&hide_border=true" />
+  <img  width="1200" src="https://github-readme-activity-graph.vercel.app/graph?username=ShutterStack&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB" />
 </div>
 
 </details>
