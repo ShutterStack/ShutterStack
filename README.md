@@ -58,7 +58,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
   <div align="center">
     <a href="https://quira.sh?utm_source=widgets&utm_campaign=ShutterStack">
@@ -109,12 +109,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShutterStack&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </td>
     <td>
-     <img width="700" src="https://github-profile-trophy.vercel.app/?username=ShutterStack&theme=tokyonight&column=5" /> 
+     <img width="700" src="https://github-profile-trophy.vercel.app/?username=ShutterStack&theme=nightowl&column=5" /> 
     </td>
   </tr>
 </table>
 <div align="center">
-  <img  width="1200" src="https://github-readme-activity-graph.vercel.app/graph?username=ShutterStack&theme=synthwave-84&true&hide_border=true" />
+  <img  width="1200" src="https://github-readme-activity-graph.vercel.app/graph?username=ShutterStack&theme=nightowl-84&true&hide_border=true" />
 </div>
 
 </details>
