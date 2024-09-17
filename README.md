@@ -93,7 +93,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ShutterStack&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" 
+      <img src="https://github-readme-stats.vercel.app/api?username=ShutterStack&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&border_radius=5&border_color=A504EB" 
            alt="GitHub Stats" />
     </td>
     <td>
@@ -110,7 +110,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShutterStack&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </td>
     <td>
-     <img width="700" src="https://github-profile-trophy.vercel.app/?username=ShutterStack&theme=nightowl&column=5" /> 
+     <img width="700" src="https://github-profile-trophy.vercel.app/?username=ShutterStack&theme=nightowl&column=5&hide_border=false&border_radius=5&border_color=A504EB" /> 
     </td>
   </tr>
 </table>
