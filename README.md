@@ -97,7 +97,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
            alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShutterStack&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB" 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShutterStack&theme=nightowl&hide_border=false&border_color=A504EB" 
            alt="GitHub Streak Stats" />
     </td>
   </tr>
