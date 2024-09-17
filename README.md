@@ -63,7 +63,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
   <div align="center">
     <a href="https://quira.sh?utm_source=widgets&utm_campaign=ShutterStack">
-      <img src="https://stats.quira.sh/ShutterStack/github?theme=dark" alt="ShutterStack's GitHub | Stats" />
+      <img src="https://stats.quira.sh/ShutterStack/github?theme=tokyonight" alt="ShutterStack's GitHub | Stats" />
     </a>
   </div>
   
@@ -76,7 +76,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <tr>
     <td>
       <a href="https://quira.sh?utm_source=widgets&utm_campaign=ShutterStack">
-        <img src="https://stats.quira.sh/ShutterStack/languages-over-time?theme=dark" 
+        <img src="https://stats.quira.sh/ShutterStack/languages-over-time?theme=tokyonight" 
              alt="ShutterStack's GitHub | Languages Over Time" />
       </a>
     </td>
