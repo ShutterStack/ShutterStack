@@ -3,7 +3,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <h3 align="center">Passionate to build tech stuff. I'm so giddy about learning AIML and Data Science that even my coffee gets jealous of the attention I'm giving to algorithms and data sets! </h3>
 
-![gitartwork](gitartwork.svg)
+![gitartwork](work.svg)
 
 <!--  [![](https://visitcount.itsvg.in/api?id=ShutterStack&label=Peek-a-Boo&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shutterstack&label=Profile%20views&color=0e75b6&style=flat" alt="shutterstack" /> </p>
