@@ -26,7 +26,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br>
 
 ### 🤝 Connect With Me:
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arya-patil-94b115210/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arya-patil-94b115210/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arya-patil-94b115210/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arya-patil-94b115210/" height="30" width="40" /></a>
 <a href="https://kaggle.com/arya patil_411" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arya patil_411" height="30" width="40" /></a>
 <a href="https://instagram.com/the_ap4" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_ap4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shutterstack" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shutterstack" height="30" width="40" /></a>
